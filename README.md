@@ -12,6 +12,10 @@
 
 <h2>Línguas</h2>
 <ul>
-    <li>&#x1F1E7;&#x1F1F7; Português brasileiro (Nativo);</li>
-    <li>&#x1F1EC;&#x1F1E7; Inglês (intermediário)</li>
+    <li>
+      <p>&#x1F1E7;&#x1F1F7; Português brasileiro (Nativo);</p>
+    </li>
+    <li>
+      <p>&#x1F1EC;&#x1F1E7; Inglês (intermediário)</p>
+    </li>
 </ul>
