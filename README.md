@@ -1,9 +1,6 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Our Funky HTML Page</title>
-    <meta name="description" content="Our first page">
-    <meta name="keywords" content="html tutorial template">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.4/ci.min.css"/>
 </head>
 <body>
@@ -45,8 +42,7 @@
 
 <div>
 
-<a href = "mailto:contato@seu-usuário-aqui"><i class="ci ci-spotify ci-2x"></i></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://dheereshagrwal.github.io/colored-icons/svg/instagram.svg" target="_blank"></a> 
 
 </div>
 
