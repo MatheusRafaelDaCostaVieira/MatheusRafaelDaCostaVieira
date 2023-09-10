@@ -13,7 +13,7 @@
 
 <h2>🧑‍💻 Tecnologias e ferramentas</h2>
 
-<img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
            
 <br />
 
@@ -42,7 +42,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://dheereshagrwal.github.io/colored-icons/svg/instagram.svg" target="_blank"></a> 
+<a style="width: 40px; height: 40px; margin-right: 10px;" href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img src="https://dheereshagrwal.github.io/colored-icons/svg/instagram.svg" target="_blank"></a> <a style="width: 40px; height: 40px;" href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/github-light.svg" target="_blank"></a> 
 
 </div>
 
