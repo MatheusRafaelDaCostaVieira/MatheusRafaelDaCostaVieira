@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="./assets/bg.png">
+<img style="width: 100%; height: 250px;" src="./assets/bg.png">
 
 <h1 style="border: none;">Olá 👋, seja bem vindo ao meu perfil!</h1>
 
