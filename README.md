@@ -4,13 +4,13 @@
 
 <br />
 
-<h2>Tecnologias e ferramentas</h2>
+<h2>🧑‍💻 Tecnologias e ferramentas</h2>
 
 <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img style="width: 40px; height: 40px; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
            
 <br />
 
-<h2>Línguas</h2>
+<h2>🌍 Línguas</h2>
 <ul>
     <li>
       <p>&#x1F1E7;&#x1F1F7; Português brasileiro (Nativo);</p>
@@ -22,7 +22,7 @@
 
 <br />
 
-<h2>Atualmente aprendendo</h2>
+<h2>📖 Atualmente aprendendo</h2>
 <ul>
   <li>
     <p><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2023 Web Development Bootcamp - Udemy</a></p>
