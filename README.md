@@ -42,7 +42,7 @@
 
 <div>
 
-<a href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img style="width: 40px; height: 40px; margin-right: 20px;" src="https://dheereshagrwal.github.io/colored-icons/svg/instagram.svg" target="_blank"></a> <a href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/github-light.svg" target="_blank"></a> 
+<a href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img style="width: 40px; height: 40px; padding-right: 20px;" src="https://dheereshagrwal.github.io/colored-icons/svg/instagram.svg" target="_blank"></a> <a href="https://www.instagram.com/matheusrafaelcostavieira/" target="_blank"><img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/github-light.svg" target="_blank"></a> 
 
 </div>
 
