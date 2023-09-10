@@ -19,3 +19,12 @@
       <p>&#x1F1EC;&#x1F1E7; Inglês (intermediário)</p>
     </li>
 </ul>
+
+<br />
+
+<h2>Atualmente aprendendo</h2>
+<ul>
+  <li>
+    <p><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2023 Web Development Bootcamp - Udemy</a></p>
+  </li>
+</ul>
