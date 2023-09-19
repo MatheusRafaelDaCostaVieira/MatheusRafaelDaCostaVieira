@@ -7,7 +7,7 @@
 
 <h1>👋 Ola, seja bem vindo ao meu perfil!</h1>
 
-<p>Me chamo Matheus Rafael e sou apelidado de "Lobinho" entre amigos. Sou um programador júnior e atualmente estou cursando um curso técnico de Desenvolvimento de Sistemas. Tenho grande interesse em desenvolvimento web e design, dedicando meu tempo livre ao estudo e prática nessas áreas. Trabalho em projetos pessoais e também colaboro em projetos relacionados aos cursos que frequento. No momento, meu foco principal está em concluir meu curso de desenvolvimento web, mas estou sempre aberto a novas oportunidades e parcerias. Estou empolgado para contribuir em projetos interessantes e aprender com a comunidade do GitHub.</p>
+<p>Me chamo Matheus Rafael e sou apelidado de "Lobinho" entre amigos. Sou um desenvolvedor júnior e atualmente estou cursando um curso técnico de Desenvolvimento de Sistemas. Tenho grande interesse em desenvolvimento web e design, dedicando meu tempo livre ao estudo e prática nessas áreas. Trabalho em projetos pessoais e também colaboro em projetos relacionados aos cursos que frequento. No momento, meu foco principal está em concluir meu curso de desenvolvimento web, mas estou sempre aberto a novas oportunidades e parcerias. Estou empolgado para contribuir em projetos interessantes e aprender com a comunidade do GitHub.</p>
 
 <br />
 
